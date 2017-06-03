@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShiftCloud</string>
+    <string name="gm" translatable="false">GM</string>
+    <string name="apagar">Delete</string>
+    <string name="porsche" translatable="false">Porsche</string>
+    <string name="audi" translatable="false">Audi</string>
+
+
+</resources>
